@@ -28,7 +28,28 @@ body{
 }
 
 header{
-    padding:50px 20px;
+    <header>
+
+<div class="logo-container">
+
+<img src="images/anhs-logo.png" class="logo" alt="Amlan National High School Logo">
+
+<img src="images/sslg-logo.png" class="logo" alt="SSLG Logo">
+
+<img src="images/deped-logo.png" class="logo" alt="DepEd Logo">
+
+<img src="images/kagawaran-logo.png" class="logo" alt="Kagawaran ng Edukasyon Logo">
+
+</div>
+
+<h1>John Lloyd Acojedo Sedillo</h1>
+
+<p class="subtitle">
+Honor Student • SSLG Grade 11 Representative • Pathfinder Scout • Student Leader
+</p>
+
+</header>
+        padding:50px 20px;
     text-align:center;
     background:rgba(0,0,0,0.25);
     backdrop-filter:blur(10px);
